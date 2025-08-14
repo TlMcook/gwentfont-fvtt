@@ -1,0 +1,19 @@
+{
+  "id": "gwent-font",
+  "title": "GWENT Font",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Crombopul",
+      "discord": "crombopul",
+      "flags": {}
+    }
+  ],
+  "styles": [ "styles/gwent-font.css" ],
+  "scripts": [ "scripts/gwent-font.js" ],
+  "description": "Changes token fonts to the GWENT font."
+}

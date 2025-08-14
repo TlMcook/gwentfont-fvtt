@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'GWENT';
+    src: url('../fonts/hinted-GWENT-ExtraBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.token-name {
+    font-family: 'GWENT';
+    font-size: 24px;
